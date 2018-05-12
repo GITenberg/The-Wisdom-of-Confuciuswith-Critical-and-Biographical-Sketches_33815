@@ -1,0 +1,46 @@
+_repo: The-Wisdom-of-Confuciuswith-Critical-and-Biographical-Sketches_33815
+_version: 0.1.0
+alternative_title: Lun yü. Selections. English
+contributor:
+  contributor:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+  translator:
+    agent_name: Jennings, William
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '7975'
+    url: http://www.gutenberg.org/2009/agents/7975
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: http://en.wikipedia.org/wiki/Confucius
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Ethics -- China'
+- !lcc 'B'
+- !lcc 'PL'
+title: 'The Wisdom of Confucius
+
+  with Critical and Biographical Sketches'
+url: http://www.gutenberg.org/ebooks/33815
